@@ -10,7 +10,7 @@ Per eseguire il test ho installato l' ultima versione di Laravel (8.40.0) ed ho 
 ```
 git clone https://github.com/maurocampisi/test-mc.git
 ```
-- rinominare il file .env.example in .env e modificare i parametri di APP_URL, MIX_PATH (path relativa), parametri del MYSQL (DB_CONNECTION, DB_HOST, ecc ..)
+- rinominare il file .env.example in .env e modificare i parametri di APP_URL, MIX_PATH (path relativa) e parametri del MYSQL (DB_CONNECTION, DB_HOST, ecc ..)
 
 esempio:
 
