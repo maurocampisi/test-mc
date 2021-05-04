@@ -2,7 +2,7 @@
 
 ## Info
 
-Per eseguire il test ho installato l' ultima versione di Laravel (8.40.0) ed ho aggiunto il pacchetto laravel/passport per sfruttare l' autenticazione di tipo OAuth2 
+Per eseguire il test ho installato l' ultima versione di Laravel (8.40.0) ed ho aggiunto il pacchetto laravel/passport per sfruttare l' autenticazione di tipo OAuth2. Per l' interfaccia ho utilizzato VueJS in modalità SPA sfruttando axios per l' autenticazione e le chiamate API.
 
 ## Istruzione installazione
 
